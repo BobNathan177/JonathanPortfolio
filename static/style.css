@@ -1,0 +1,11 @@
+body{font-family:Arial,sans-serif;margin:0;background:#f8f8f8;color:#222}
+header{background:linear-gradient(90deg,#CE1126 33%,#FCD116 33%,#FCD116 66%,#006B3F 66%);color:white;text-align:center;padding:30px 10px;text-shadow:1px 1px 3px black}
+header h1{margin:0;font-size:45px;letter-spacing:3px}
+.hero{text-align:center;padding:50px 20px;background:white;margin:20px;border-radius:15px;box-shadow:0 5px 15px rgba(0,0,0,0.1)}
+.btn{display:inline-block;background:#25D366;color:white;padding:15px 30px;border-radius:30px;text-decoration:none;font-weight:bold;margin-top:15px;font-size:18px}
+.btn:hover{background:#128C7E}
+.skills{padding:30px 20px;text-align:center}
+.cards{display:flex;flex-wrap:wrap;justify-content:center;gap:15px;margin-top:20px}
+.card{background:white;padding:20px;border-radius:10px;box-shadow:0 3px 10px rgba(0,0,0,0.1);min-width:150px;font-weight:bold;border-left:5px solid #FCD116}
+.contact{background:#006B3F;color:white;text-align:center;padding:40px 20px}
+footer{text-align:center;padding:15px;background:#222;color:white}
